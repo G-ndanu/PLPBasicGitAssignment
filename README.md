@@ -18,7 +18,7 @@ Steps and Commands used:
 6. Entering and saving the merge commit message when prompted.
    
 7. Pushing the merge commit to the remote repository:
-   git push origin main
+   git push -u origin main
 
 8. Verifying on GitHub:
    Open your GitHub repository in a web browser and confirm that the `hello.txt` file and commit message are visible.
